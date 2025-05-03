@@ -38,6 +38,7 @@ Tables are linked via `Country_name` as the primary key.
 ---
 ## 🔍 Key SQL Techniques
 LEFT JOIN Example
+
 ```
 SELECT
     gl.Country_name,
@@ -52,6 +53,7 @@ LEFT JOIN
     Economic_Indicators ei ON gl.Country_name = ei.Country_name
 LIMIT 100;
 ```
+
 ---
 ## Why LEFT JOIN?
 

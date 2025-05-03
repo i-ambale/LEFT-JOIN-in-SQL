@@ -52,6 +52,7 @@ LEFT JOIN
     Economic_Indicators ei ON gl.Country_name = ei.Country_name
 LIMIT 100;
 ```
+---
 ## Why LEFT JOIN?
 
 - Ensures all countries (even those missing economic/service data) are included.

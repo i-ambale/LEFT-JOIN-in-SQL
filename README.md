@@ -82,9 +82,5 @@ LIMIT 100;
 
 - [ERD Design Best Practicesh](https://www.lucidchart.com/pages/er-diagrams)
 
-## 📚 Resources  
-- [MySQL JOIN Documentation][mysql-docs]  
-- [ERD Design Best Practices][erd-guide]  
-
-[mysql-docs]: https://dev.mysql.com/doc/refman/8.0/en/join.html  
-[erd-guide]: https://www.lucidchart.com/pages/er-diagrams  
+---
+Adopted by: **Ibrahim Ambale**
